@@ -36,9 +36,11 @@ List the ready features here:
 
 
 ## Screenshots
-(./img/screenshot 1.png)
-(./img/screenshot 2.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+![Task Input Form](img/screenshot.png)
+![Displaying Data](img/screenshots.png)
+
+
 
 
 ## Setup
