@@ -36,8 +36,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot1.png)
-(./img/screenshot2.png)
+(./img/screenshot 1.png)
+(./img/screenshot 2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
