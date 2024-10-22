@@ -89,10 +89,13 @@ Give credit here.
 - https://www.youtube.com/watch?v=OSqlTwLJj6A
 - https://www.geeksforgeeks.org/pandas-concat-function-in-python/
 - https://pythonassets.com/posts/treeview-in-tk-tkinter/
+- https://www.geeksforgeeks.org/python-pandas-dataframe/
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+- https://www.geeksforgeeks.org/dealing-with-rows-and-columns-in-pandas-dataframe/
 - https://pythonassets.com/posts/treeview-in-tk-tkinter/
 - https://www.geeksforgeeks.org/python-tkinter-messagebox-widget/
 - https://www.geeksforgeeks.org/python-validate-string-date-format/
+- https://www.youtube.com/watch?v=YTqDYmfccQU&ab_channel=Codemy.com
 
 
 
