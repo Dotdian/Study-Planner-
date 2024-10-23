@@ -1,6 +1,4 @@
 # Study-Planner-
-
-# Project Name
 > The study planner is a Python-based application designed to help students organise their study schedules. It allows users to input dates, subjects, tasks, and notes and view their study plan in a simple interface
 
 ## Table of Contents
