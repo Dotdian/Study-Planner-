@@ -66,7 +66,8 @@ Include areas you believe need improvement / could be improved. Also add TODOs f
 Room for improvement:
 - Saving user inputs into a file that can be accessed next time
 - Better GUI, making it more aesthetic
-- Better Accessibility 
+- Better Accessibility
+- Adding a delete button
 
 To do:
 - Language
